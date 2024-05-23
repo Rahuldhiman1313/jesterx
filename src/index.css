@@ -778,6 +778,7 @@ a:hover {
   color:#fff;
   font-family: "Press Start 2P", system-ui;
   font-size: 14px;
+  text-transform: capitalize;
 }
 .social ul li a:hover {
   background-color: #FB0001;
